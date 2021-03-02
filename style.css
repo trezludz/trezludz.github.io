@@ -1,0 +1,19 @@
+	   body {
+        background-color: #ffb3b3;
+      font-family: arial;
+        }
+
+    .container{
+      width: 400px;
+      margin: 120px auto 120px;
+        background-color: #FFFFFF;
+        padding: 0 20px 20px;
+        border-radius: 10px;
+        text-align: center;
+        }
+
+    p {
+        font-size: 16px;
+        line-height: 26px;
+        color: black;
+        }
